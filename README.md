@@ -1,4 +1,4 @@
-# segmentacao-de-usuarios
+# segmentacao-de-clientes
 
 Conjunto de dados utilizado: https://www.kaggle.com/datasets/ermismbatuhan/digital-marketing-ecommerce-customer-behavior 
 
